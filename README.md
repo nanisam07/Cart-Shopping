@@ -43,4 +43,6 @@ Login with the following test accounts and explore the system:
 💼 With EMS, employee management becomes **smarter, faster, and more secure.**  
 Perfect for companies looking to **digitalize their HR and management process.**  
 
+BY PROJECT DEVELOPED BY 
+K.SAMUEL VICTOR
 ---
