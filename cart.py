@@ -1,12 +1,9 @@
 from products import products
-
 cart = []
-
 
 def search_products(keyword):
     results = [p for p in products if keyword.lower() in p['name'].lower()]
     return results
-
 
 def view_products():
     print("\n===== Available Products =====")

@@ -115,4 +115,5 @@ def run_ui():
     show_all_products()
     update_cart_sidebar()
 
+
     root.mainloop()

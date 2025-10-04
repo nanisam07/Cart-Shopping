@@ -1,6 +1,5 @@
 # products.py
 
-# Predefined product list (no imports here!)
 products = [
     {"id": 1, "name": "Laptop", "price": 45000},
     {"id": 2, "name": "Smartphone", "price": 15000},
